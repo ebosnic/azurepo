@@ -1,5 +1,4 @@
-# HTML
-- task: AzureWebApp@1
+# HTML- task: AzureWebApp@1
   inputs:
     azureSubscription: 'Free Trial(fd7eb79b-49db-454b-84f1-7a3bf7156f45)'
     appType: 'webAppLinux'
